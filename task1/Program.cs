@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.Clear;
+Console.Write("Введите первое число: ");
+int a = Console.ReadLine;
+Console.Write("Введите второе число: ");
+int b = Console.ReadLine;
+if (b*b==a)
+{
+    Console.WriteLine("Первое число является квадратом второго числа");
+}
+else
+{
+    Console.WriteLine("Первое число НЕявляется квадратом второго числа");
+}
