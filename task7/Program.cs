@@ -1,4 +1,5 @@
-﻿Random rnd = new Random();
+﻿//Дано число из отрезка [10, 99]. Показать наибольшую цифру числа
+Random rnd = new Random();
 int x  = rnd.Next(10, 100);
 Console.WriteLine("Задано число: "+x);
 

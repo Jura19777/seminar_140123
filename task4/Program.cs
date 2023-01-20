@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿//Показать четные числа от 1 до N
+Console.Clear();
 Console.Write("Введите число: ");
 int a = int.Parse (Console.ReadLine());
 

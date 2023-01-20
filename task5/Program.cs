@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿//Показать последнюю цифру трёхзначного числа
+Console.Clear();
 Console.Write("Введите число: ");
 int a = int.Parse (Console.ReadLine());
 

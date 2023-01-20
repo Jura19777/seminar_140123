@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿//По двум заданным числам проверять является ли первое квадратом второго
+Console.Clear();
 Console.Write("Введите первое число: ");
 int a = int.Parse (Console.ReadLine());
 Console.Write("Введите второе число: ");

@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿//Выяснить является ли число чётным
+Console.Clear();
 Console.Write("Введите число: ");
 int a = int.Parse (Console.ReadLine());
 
